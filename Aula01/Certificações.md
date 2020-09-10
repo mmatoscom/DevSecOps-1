@@ -17,4 +17,4 @@ Security +          | https://certification.comptia.org/pt/certificações/secur
 LPI 3 Security      | https://www.lpi.org/our-certifications/lpic-3-303-overview
 CEH                 | https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 OSCP                | https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/
-CIISP               | https://www.isc2.org/Certifications/CISSP
+CISSP               | https://www.isc2.org/Certifications/CISSP
